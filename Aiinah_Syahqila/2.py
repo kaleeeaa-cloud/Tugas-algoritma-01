@@ -6,3 +6,4 @@ else:
     tarif_tambahan = jam_tambahan * 2000
     biaya = 3000 + tarif_tambahan
     print(f"biaya parkir= Rp{biaya}")
+    
